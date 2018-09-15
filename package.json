@@ -1,0 +1,13 @@
+{
+  "id": "smallinvoice",
+  "name": "smallinvoice",
+  "version": "1.0.0",
+  "description": "SmallInvoice integration",
+  "main": "index.js",
+  "author": "Bert-Jan Fikse <s4mpl3d@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/s4mpl3d/Franz-SmallInvoice",
+  "config": {
+    "serviceURL": "https://app.smallinvoice.com/"
+  }
+}
